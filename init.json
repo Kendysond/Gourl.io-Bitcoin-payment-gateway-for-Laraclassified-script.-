@@ -1,0 +1,9 @@
+{
+    "name": "gourl",
+    "version": "1.0",
+    "display_name": "Gourl(Bitcoin)",
+    "description": "Payment with Gourl(Bitcoin)",
+    "author": "Kendysond",
+    "category": "payment",
+    "has_installer": true
+}
